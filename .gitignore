@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+resources/__pycache__
+utils/__pycache__
+test_imgs
+config.py
+serviceAccount.json
